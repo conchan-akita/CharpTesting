@@ -23,6 +23,7 @@ namespace CalculationProject
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new MainWindowViewModel();
         }
     }
 }
