@@ -1,2 +1,2 @@
-# CharpTesting
+# CsharpTesting
 WPFでMSTestの勉強をするためのプロジェクト
